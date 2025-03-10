@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mascarenhasmelson](https://github.com/mascarenhasmelson)
 
-- 📝 I regularly write articles on [0xmm.in](0xmm.in)
+- 📝 I occasional article on [0xmm.in](0xmm.in)
 
 - 💬 Ask me about **Networking**
 
