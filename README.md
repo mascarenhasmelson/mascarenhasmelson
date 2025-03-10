@@ -5,21 +5,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mascarenhasmelson](https://github.com/mascarenhasmelson)
 
-- 📝 I occasionally write articles on [0xmm.in](0xmm.in)
-
 - 💬 Ask me about **Networking and GPON**
 
 - 📫 How to reach me **mail@0xmm.in**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/melsonmascarenhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melsonmascarenhas" height="30" width="40" /></a>
 <a href="https://instagram.com/melson_mascarenhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melson_mascarenhas" height="30" width="40" /></a>
-<a href="/https://0xmm.in/posts/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://0xmm.in/posts/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
