@@ -2,9 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascarenhasmelson&label=Profile%20views&color=0e75b6&style=flat" alt="mascarenhasmelson" /> </p>
 
-- 👨‍💻 R&D Network Engineer by profession and a tech enthusiast
+- 👨‍💻 an R&D Network Engineer and passionate tech tinkerer who loves blending networking with coding. I work on projects that live at the intersection of network engineering, system programming, and embedded development.
 
-- 💬 Ask me about **Networking and GPON**
+🔧 I build tools in C, Go, and Bash for network automation and monitoring
+
+🌐 Experienced in routing, switching, GPON, Wi-Fi planning/configuration, and handling network support
+
+🖥️ I develop embedded solutions using Raspberry Pi, sensors, and low-level interfaces
+
+🧠 Constantly learning and experimenting with Linux, Docker, and self-hosting
+
+🛠️ Currently working on fun DIY projects, writing blog posts, and building stuff from scratch
+
+📚 Love writing clean, modular code — often mixing low-level control with high-level logic
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
