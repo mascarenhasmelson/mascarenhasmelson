@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascarenhasmelson&label=Profile%20views&color=0e75b6&style=flat" alt="mascarenhasmelson" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mascarenhasmelson](https://github.com/mascarenhasmelson)
+- 👨‍💻 R&D Network Engineer by profession and a tech enthusiast
 
 - 💬 Ask me about **Networking and GPON**
 
