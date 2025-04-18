@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mascarenhasmelson&label=Profile%20views&color=0e75b6&style=flat" alt="mascarenhasmelson" /> </p>
 
-- 👨‍💻 an R&D Network Engineer and passionate tech tinkerer who loves blending networking with coding. I work on projects that live at the intersection of network engineering, system programming, and embedded development.
+👨‍💻 an R&D Network Engineer and passionate tech tinkerer who loves blending networking with coding. I work on projects that live at the intersection of network engineering, system programming, and embedded development.
 
 🔧 I build tools in C, Go, and Bash for network automation and monitoring
 
